@@ -1,0 +1,58 @@
+const cities = [
+  {
+    id: 1,
+    name: "Manali",
+    info: "Experience snow-covered peaks, pine forests, and vibrant markets in this Himalayan gem.",
+    image: "https://cdn.thecodehelp.in/Manali.jpeg",
+    price: "32,999",
+  },
+  {
+    id: 2,
+    name: "Jaipur",
+    info: "Dive into royal palaces, colorful bazaars, and the rich cultural heritage of the Pink City.",
+    image: "https://cdn.thecodehelp.in/Jaipur.jpeg",
+    price: "25,499",
+  },
+  {
+    id: 3,
+    name: "Goa",
+    info: "Sun, sand, and shacks — unwind on golden beaches and party through the night.",
+    image: "https://cdn.thecodehelp.in/Goa.jpeg",
+    price: "44,000",
+  },
+  {
+    id: 4,
+    name: "Kashmir",
+    info: "Sail on Dal Lake, stroll through tulip gardens, and feel the magic of paradise on Earth.",
+    image: "https://cdn.thecodehelp.in/Kashmir.jpeg",
+    price: "55,750",
+  },
+  {
+    id: 5,
+    name: "Darjeeling",
+    info: "Starting in the colorful port city of Gdańsk, you'll escape the crowds and relax in the hills.",
+    image: "https://cdn.thecodehelp.in/Darjeeling.jpeg",
+    price: "78,595",
+  },
+  {
+    id: 6,
+    name: "Udaipur",
+    info: "Romantic lakes, palaces, and stunning sunsets — welcome to the Venice of the East.",
+    image: "https://cdn.thecodehelp.in/Udaipur.jpeg",
+    price: "28,800",
+  },
+  {
+    id: 8,
+    name: "Kochi",
+    info: "A perfect blend of modernity and colonial charm, explore backwaters, beaches, and spice markets.",
+    image: "https://cdn.thecodehelp.in/Kochi.jpeg",
+    price: "36,200",
+  },
+  {
+    id: 7,
+    name: "Rishikesh",
+    info: "Yoga capital of the world — enjoy spiritual vibes, river rafting, and Himalayan views.",
+    image: "https://cdn.thecodehelp.in/Rishikesh.jpeg",
+    price: "19,999",
+  },
+];
