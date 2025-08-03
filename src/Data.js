@@ -1,58 +1,55 @@
 const cities = [
-  {
-    id: 1,
-    name: "Manali",
-    info: "Experience snow-covered peaks, pine forests, and vibrant markets in this Himalayan gem.",
-    image: "https://cdn.thecodehelp.in/Manali.jpeg",
-    price: "32,999",
-  },
+
   {
     id: 2,
     name: "Jaipur",
-    info: "Dive into royal palaces, colorful bazaars, and the rich cultural heritage of the Pink City.",
+    info: "Jaipur, the capital city of Rajasthan and famously known as the 'Pink City', is a vibrant blend of royal heritage and modern living. The city is characterized by its pink-hued buildings, a tribute to hospitality dating back to 1876 when the city was painted pink to welcome the Prince of Wales. Jaipur is a treasure trove of architectural marvels, with iconic landmarks like the Hawa Mahal, a five-story structure with 953 small windows designed for royal women to observe street festivals while remaining unseen. The City Palace, still home to the former royal family, showcases a fusion of Mughal and Rajput architecture. Amer Fort, situated on a hilltop, offers panoramic views and elephant rides that take you through a majestic past. Jantar Mantar, an astronomical observatory, is a UNESCO World Heritage site reflecting the scientific prowess of ancient India. Jaipur is also a paradise for shoppers and foodies. From traditional Rajasthani jewelry and textiles to delicious street food like kachoris and ghevar, the city offers a cultural feast. The Johari Bazaar and Bapu Bazaar are perfect for finding local handicrafts. Jaipur's culture comes alive during festivals like Teej and Gangaur, where locals don traditional attire and processions fill the streets with music and color. The city also hosts the Jaipur Literature Festival, the largest of its kind in Asia. The cuisine is as royal as its palaces—don’t miss the authentic Rajasthani thali or Laal Maas, a fiery meat dish. Jaipur strikes a balance between the past and the present, making it a must-visit for history buffs, photographers, and anyone looking to experience Indian heritage in its most colorful form.",
     image: "https://cdn.thecodehelp.in/Jaipur.jpeg",
-    price: "25,499",
+    price: "9,595"
   },
   {
     id: 3,
     name: "Goa",
-    info: "Sun, sand, and shacks — unwind on golden beaches and party through the night.",
+    info: "Goa, India's beach paradise, is synonymous with golden sands, swaying palms, and vibrant nightlife. Nestled on the western coast of India, Goa has something for everyone—from beach bums and party lovers to nature enthusiasts and spiritual seekers. North Goa is famous for its energetic beaches like Baga, Anjuna, and Calangute, known for their water sports, flea markets, and all-night parties. South Goa, on the other hand, offers a more serene and laid-back vibe with pristine beaches like Palolem and Agonda. The Portuguese influence is evident in Goa’s architecture, with centuries-old churches like Basilica of Bom Jesus and Se Cathedral that reflect a rich colonial history. Goa is also a haven for food lovers, offering a mix of Konkani, Portuguese, and international cuisines. Must-tries include Goan fish curry, pork vindaloo, and bebinca, a traditional dessert. Music and dance are intrinsic to the Goan lifestyle. From beach shacks playing trance to live jazz bands and traditional Goan folk performances, there’s never a dull moment. During the Carnival and Christmas season, the entire state lights up with festive cheer. Adventure seekers can try scuba diving, parasailing, or even island hopping. For a slower pace, enjoy sunset cruises on the Mandovi River or yoga retreats nestled in the hinterlands. Goa’s charm lies in its ability to cater to all moods—party hard or unwind in nature. Its inclusive vibe, tropical climate, and cultural richness make it a destination that calls travelers back time and again.",
     image: "https://cdn.thecodehelp.in/Goa.jpeg",
-    price: "44,000",
+    price: "32,000"
   },
   {
     id: 4,
-    name: "Kashmir",
-    info: "Sail on Dal Lake, stroll through tulip gardens, and feel the magic of paradise on Earth.",
-    image: "https://cdn.thecodehelp.in/Kashmir.jpeg",
-    price: "55,750",
+    name: "Agra",
+    info: "Agra, home to the world-famous Taj Mahal, is a city steeped in Mughal grandeur and history. Located on the banks of the Yamuna River in Uttar Pradesh, Agra is one of the most visited cities in India due to its historical significance and architectural marvels. The Taj Mahal, a UNESCO World Heritage site and one of the Seven Wonders of the World, was built by Emperor Shah Jahan in memory of his wife Mumtaz Mahal. This white marble mausoleum is a symbol of eternal love and features intricate carvings and stunning symmetry. But Agra’s historical richness doesn’t end there. The Agra Fort, another UNESCO site, showcases red sandstone architecture and served as the main residence of the Mughal emperors. Fatehpur Sikri, a short drive away, is a ghost city built by Akbar the Great and is renowned for its beautiful Buland Darwaza and Jama Masjid. Apart from history, Agra is also a food lover’s paradise. The city is famous for its petha, a sweet made from ash gourd, and savory snacks like bhalla and bedai. The local markets such as Sadar Bazaar and Kinari Bazaar offer leather goods, marble inlay work, and handicrafts. For those interested in culture, the Taj Mahotsav held annually showcases local art, dance, and music. Agra is well connected to Delhi via the Yamuna Expressway, making it ideal for a day trip or a short cultural getaway. Whether you’re a history enthusiast, photographer, or a romantic at heart, Agra offers a glimpse into India’s royal past that is both educational and awe-inspiring.",
+    image: "https://cdn.thecodehelp.in/Agra.jpeg",
+    price: "10,299"
   },
   {
     id: 5,
     name: "Darjeeling",
-    info: "Starting in the colorful port city of Gdańsk, you'll escape the crowds and relax in the hills.",
+    info: "Darjeeling, often referred to as the 'Queen of the Hills', is a charming hill station nestled in the Himalayan foothills of West Bengal. Known for its stunning views of Mount Kanchenjunga, lush tea gardens, and colonial architecture, Darjeeling offers a unique blend of cultural heritage and natural beauty. The town was developed by the British in the 19th century as a summer retreat and retains its old-world charm with Victorian buildings, narrow streets, and the iconic Darjeeling Himalayan Railway—fondly called the 'Toy Train', which is a UNESCO World Heritage Site. Tea tourism is a big draw here, with estates like Happy Valley offering guided tours and tastings of the world-renowned Darjeeling tea. Tiger Hill is the most popular viewpoint, where travelers flock at dawn to witness the sun rise over snow-capped peaks. The Japanese Peace Pagoda, Batasia Loop, and Rock Garden are other scenic attractions. Darjeeling is a melting pot of cultures with Nepali, Tibetan, and Bengali influences seen in its cuisine, festivals, and local crafts. From steaming momos to thukpa, the local food is comforting and flavorful. Adventure enthusiasts can explore treks like the Sandakphu-Phalut trail, offering breathtaking views of four of the world’s five highest peaks. The weather remains cool year-round, with misty mornings and clear, starry nights adding to the town’s romantic vibe. Local markets like Chowrasta are ideal for picking up handicrafts, woolens, and local tea. Darjeeling’s charm lies in its slow-paced life, friendly locals, and breathtaking views, making it a must-visit destination for nature lovers and those seeking a peaceful getaway.",
     image: "https://cdn.thecodehelp.in/Darjeeling.jpeg",
-    price: "78,595",
+    price: "78,595"
   },
   {
     id: 6,
-    name: "Udaipur",
-    info: "Romantic lakes, palaces, and stunning sunsets — welcome to the Venice of the East.",
-    image: "https://cdn.thecodehelp.in/Udaipur.jpeg",
-    price: "28,800",
+    name: "Varanasi",
+    info: "Varanasi, also known as Kashi or Benares, is one of the oldest continuously inhabited cities in the world and holds a special place in the spiritual heart of India. Located on the banks of the sacred Ganges River in Uttar Pradesh, this city is a vibrant tapestry of spirituality, tradition, and life itself. Pilgrims from across the globe come here to take a holy dip in the Ganga, believing it to cleanse their sins and liberate their souls. The ghats (steps leading to the river), especially Dashashwamedh Ghat and Manikarnika Ghat, are bustling with rituals—ranging from morning prayers and cremation ceremonies to the iconic Ganga Aarti held every evening with lamps, chants, and music. Varanasi is also a center of education, home to the renowned Banaras Hindu University (BHU). The city is a hub for classical music, dance, and literature, with legends like Ravi Shankar finding their roots here. Narrow alleys are lined with ancient temples, including the sacred Kashi Vishwanath Temple dedicated to Lord Shiva. The cuisine here is vegetarian, rich, and flavorful. Don’t miss trying kachori-sabzi, tamatar chaat, and the famous Banarasi paan. The markets are filled with silk sarees, brassware, and spiritual souvenirs. While the city can be chaotic, there’s a profound sense of peace amidst the spiritual hustle. Sunrise boat rides on the Ganga, visits to Sarnath where Buddha gave his first sermon, and moments of quiet contemplation make Varanasi a deeply transformative experience. It’s not just a destination—it’s a journey into the soul of India.",
+    image: "https://cdn.thecodehelp.in/Varanasi.jpeg",
+    price: "11,500"
+  },
+  {
+    id: 7,
+    name: "Shillong",
+    info: "Shillong, the capital of Meghalaya, is affectionately known as the 'Scotland of the East' due to its rolling hills, charming weather, and British-era architecture. Nestled in the Khasi Hills, this beautiful hill station offers a refreshing escape with its lush landscapes, cascading waterfalls, and vibrant culture. The city is known for its music scene, with local bands and festivals showcasing talent in rock, blues, and folk music. Shillong Peak offers panoramic views of the entire city and the surrounding valleys. Elephant Falls, just a short drive away, is a three-tiered waterfall that is both powerful and serene. The city is clean, green, and boasts well-maintained roads lined with pine trees. Don Bosco Museum is an informative stop to learn about the indigenous tribes of Northeast India. Shillong also has a growing café culture, with cozy spots offering local flavors and continental cuisine. Try dishes like Jadoh, Dohneiiong, and Tungrymbai. The people are warm and welcoming, and the culture is a blend of tribal and Christian traditions. Nearby places like Cherrapunji and Mawlynnong (Asia’s cleanest village) are ideal for day trips. The markets in Shillong are a mix of modern stores and traditional bazaars like Police Bazaar where you can buy woolen goods, local crafts, and organic produce. Shillong’s charm lies in its balance of natural beauty and cultural depth. Whether you’re trekking, exploring caves, or simply sipping tea by a misty window, Shillong offers a soulful experience unlike any other hill station in India.",
+    image: "https://cdn.thecodehelp.in/Shillong.jpeg",
+    price: "29,995"
   },
   {
     id: 8,
     name: "Kochi",
-    info: "A perfect blend of modernity and colonial charm, explore backwaters, beaches, and spice markets.",
+    info: "Kochi, also known as Cochin, is a coastal gem in the state of Kerala that beautifully blends colonial heritage with South Indian tradition. Once an important spice trading center, Kochi’s rich past is evident in its architecture, cuisine, and culture. Fort Kochi, with its Portuguese houses, Dutch cemeteries, and Chinese fishing nets, gives a glimpse into centuries of international trade and colonial rule. The Mattancherry Palace, gifted by the Portuguese and renovated by the Dutch, showcases stunning Kerala murals depicting scenes from the Ramayana. Kochi is also a melting pot of communities—Hindus, Christians, Jews, and Muslims—all coexisting harmoniously. The Paradesi Synagogue in Jew Town is one of the oldest active synagogues in the Commonwealth. Kochi’s culinary scene is rich and flavorful, with seafood taking center stage. From Kerala-style fish curry to prawn roast and appam with stew, the cuisine reflects the spices and coconut-rich tradition of the region. Art and culture thrive in Kochi. The Kochi-Muziris Biennale, one of Asia’s largest contemporary art festivals, draws artists and tourists from across the world. Kathakali and Mohiniyattam performances in local theaters give visitors a taste of Kerala’s classical arts. Nature lovers can take backwater cruises or visit the nearby Vypeen Island and Cherai Beach. The backwaters and lush greenery give Kochi a tranquil vibe, while its bustling markets and art cafés add a modern twist. Whether you're exploring its history, savoring its food, or soaking in the coastal charm, Kochi is a soulful destination that offers something unique for every traveler.",
     image: "https://cdn.thecodehelp.in/Kochi.jpeg",
-    price: "36,200",
-  },
-  {
-    id: 7,
-    name: "Rishikesh",
-    info: "Yoga capital of the world — enjoy spiritual vibes, river rafting, and Himalayan views.",
-    image: "https://cdn.thecodehelp.in/Rishikesh.jpeg",
-    price: "19,999",
-  },
+    price: "21,999"
+  }
 ];
+
+
+export default cities;

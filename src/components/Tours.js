@@ -1,14 +1,19 @@
 import "./Tours.css";
 import Card from "./Card";
 
-const Tours = () => {
+const Tours = ({ toursData, removeTour }) => {
+//   console.log("toursData:", toursData);
+//   console.log("Type:", typeof toursData);
+
   return (
-    <div>
-      <div>
+    <div className="container">
+      <div className="main-heading">
         <h2>Plan with Love</h2>
       </div>
-      <div>
-        <Card />
+      <div className="cards">
+        {toursData.map((tour) => {
+          return <Card {...tour} removeTour={removeTour} />;
+        })}
       </div>
     </div>
   );
