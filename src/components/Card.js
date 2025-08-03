@@ -14,7 +14,7 @@ const Card = ({ id, image, info, price, name, removeTour }) => {
       <img src={image} className="card-image" />
       <div className="tour-info">
         <div className="tour-details">
-          <h4>{price}</h4>
+          <h4>&#x20B9; {price}</h4>
           <h2>{name}</h2>
         </div>
         <div className="description">

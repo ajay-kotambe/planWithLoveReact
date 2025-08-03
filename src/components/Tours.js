@@ -12,7 +12,7 @@ const Tours = ({ toursData, removeTour }) => {
       </div>
       <div className="cards">
         {toursData.map((tour) => {
-          return <Card {...tour} removeTour={removeTour} />;
+          return <Card key={tour.id} {...tour} removeTour={removeTour} />;
         })}
       </div>
     </div>
